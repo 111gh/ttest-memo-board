@@ -15,3 +15,4 @@
 </br>
 
 ## 2. ERD 설계
+![메모게시판](https://user-images.githubusercontent.com/129938274/230119607-366a1b2a-d758-49b9-bdbf-9e799a42e75a.png)
